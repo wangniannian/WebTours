@@ -1,0 +1,13 @@
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[gui]
+[gui]
+	recentrepo = D:/test/Gittest
+	encoding = utf-8
+	recentrepo = C:/Users/wn187/eclipse-workspace/CRM_WN
+[user]
+	email = 1174902781@qq.com
+	name = wangniannian

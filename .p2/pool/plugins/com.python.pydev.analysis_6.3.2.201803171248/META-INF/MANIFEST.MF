@@ -1,0 +1,58 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: com.python.pydev.analysis; singleton:=true
+Archiver-Version: Plexus Archiver
+Built-By: fabio
+Require-Bundle: org.eclipse.core.runtime,org.junit;bundle-version="4.0
+ ";resolution:=optional,org.eclipse.text,org.python.pydev.ast;bundle-v
+ ersion="[6.3.2,6.3.3)",org.python.pydev.core;bundle-version="[6.3.2,6
+ .3.3)",org.python.pydev.parser;bundle-version="[6.3.2,6.3.3)",org.ecl
+ ipse.core.resources,org.eclipse.ltk.core.refactoring,org.eclipse.core
+ .filebuffers
+Bundle-ManifestVersion: 2
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-Vendor: Brainwy Software Ltda
+Export-Package: com.python.pydev.analysis,com.python.pydev.analysis.ad
+ ditionalinfo,com.python.pydev.analysis.additionalinfo.builders,com.py
+ thon.pydev.analysis.additionalinfo.dependencies,com.python.pydev.anal
+ ysis.pep8,com.python.pydev.analysis.pylint,com.python.pydev.analysis.
+ refactoring.changes,com.python.pydev.analysis.refactoring.quick_fixes
+ ,com.python.pydev.analysis.refactoring.refactorer,com.python.pydev.an
+ alysis.refactoring.wizards,com.python.pydev.analysis.refactoring.wiza
+ rds.rename,com.python.pydev.analysis.refactoring.wizards.rename.visit
+ ors,com.python.pydev.analysis.scopeanalysis,com.python.pydev.analysis
+ .system_info_builder,com.python.pydev.analysis.tabnanny,com.python.py
+ dev.analysis.visitors,com.python.pydev.codecompletion.ctxinsensitive,
+ com.python.pydev.codecompletion.participant,com.python.pydev.codecomp
+ letion.simpleassist
+Bundle-Name: Analysis Plug-in
+Bundle-Version: 6.3.2.201803171248
+Bundle-ClassPath: analysis.jar
+Bundle-Activator: com.python.pydev.analysis.AnalysisPlugin
+Created-By: Apache Maven 3.3.9
+Build-Jdk: 1.8.0_77
+Eclipse-BundleShape: dir
+
+Name: analysis.jar
+SHA-256-Digest: D8g7vNtE6caRVfmSBId4QdUMrzDJ8CIZ9A74iTO9P2M=
+
+Name: plugin.xml
+SHA-256-Digest: vYVOAvz+veTSmLnJceUv1/JQj7MJCft6OZLypfFeXwo=
+
+Name: LICENSE.TXT
+SHA-256-Digest: J75t01G5GT6rkY9hiDNA+yh/SDVMI+VNinfwannMATI=
+
+Name: META-INF/maven/org.python.pydev/com.python.pydev.analysis/pom.xm
+ l
+SHA-256-Digest: gxNIFmRpJ4HoOMHE7FmFbySw0QmrWJzlXW/w2VRSn/Y=
+
+Name: icons/python_file.gif
+SHA-256-Digest: T3vKaScDsTkTbAQ79SOPIN2JUOHyiJlLLdm5dW+oEMc=
+
+Name: icons/opentype.gif
+SHA-256-Digest: If9ZiBB63m6CM91kcr81FolFqzDcbN1vEkIrIAo+Z8I=
+
+Name: META-INF/maven/org.python.pydev/com.python.pydev.analysis/pom.pr
+ operties
+SHA-256-Digest: jJVj5LEzBMM0Ay9tg50qIzQABtIkBJAJBb4SN9+B/O0=
+

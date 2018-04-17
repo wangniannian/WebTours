@@ -1,0 +1,29 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: v3NksG1ANXZEffnVfhtBNRBx4mU2f
+ vn4szbF0PBjgKY=
+SHA-256-Digest-Manifest: 0LmfqRTH7sYOko/9zNkMoE8n56R8FghUSDITUlJB62Q=
+Created-By: 1.8.0_77 (Oracle Corporation)
+
+Name: analysis.jar
+SHA-256-Digest: 5IXUCmkrUNuZQ3BTwbeKLbqUYsn87kG+9O+F+49wTN0=
+
+Name: plugin.xml
+SHA-256-Digest: jnUgMiCwQohejTDUcDdYxCcXEduYKSeQBHKoPjA6LLU=
+
+Name: LICENSE.TXT
+SHA-256-Digest: mtk2pu43aWF40oMq/sr3cRMcILygEgrX4KgNzXYsnaA=
+
+Name: META-INF/maven/org.python.pydev/com.python.pydev.analysis/pom.xm
+ l
+SHA-256-Digest: d8s2zZMKZgmRlU5SIDIqJvaFaJokWh5N6hEStYSFOFg=
+
+Name: icons/python_file.gif
+SHA-256-Digest: C0chHUngMwZs5HXGTU9zGI0/OXlMQeVzK9EWK9X2sDE=
+
+Name: icons/opentype.gif
+SHA-256-Digest: Uc6sQw31uedjA/fOP8oDbjfWKxf5iR886o8NC+gHsX8=
+
+Name: META-INF/maven/org.python.pydev/com.python.pydev.analysis/pom.pr
+ operties
+SHA-256-Digest: U6ybMX79eHAfiMgcWFdymOywB+5zuMZbwN4wBY8z+Y8=
+
